@@ -15,9 +15,21 @@ Bundle of scripts, tools and other things. Each folder has it's own read me for 
 * **vim-profile** - Makes Vim a little nicer to look at. 
 
 # Usage 
+
+
 **Compilation**
+
+
 `unzip Bep-Bundle.zip; cd Bep-Bundle; make`
+
+
 **Installation**
+
+
 `sudo make install`
+
+
 **Uninstallation**
+
+
 `sudo make uninstall`
